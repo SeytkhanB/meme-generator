@@ -1,0 +1,13 @@
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    width: 550px;
+    height: 550px;
+    margin: 0 auto;
+}
+
